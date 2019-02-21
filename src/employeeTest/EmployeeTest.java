@@ -15,7 +15,7 @@ public class EmployeeTest {
 		//构造了一个Employee数组，并填入了三个雇员对象
 		Employee[] staff = new Employee[3];
 		
-		staff[0] = new Employee("Carl Cracker",75000,1987,12,15);
+		staff[0] = new Employee("Carl Cracker",70000,1987,12,15);
 		staff[1] = new Employee("Harry Hacker",50000,1989,10,1);
 		staff[2] = new Employee("Tony Tester",40000,1990,3,15);
 		
